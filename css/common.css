@@ -1,0 +1,44 @@
+html{
+    background:#f6f5f5;
+}
+
+
+header{
+    height: 60px;
+    background: #89dcbf;
+    line-height: 60px;
+    color: #fff;
+    text-align: center;
+    font-family:'Verdana';
+    font-size: 35px;
+
+}
+
+.contents h1{
+    margin: 0 0 30px 0;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.contents h2{
+    margin: 0 0 10px 0;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.contents h3{
+    margin: 0 0 10px 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.contents p{
+    margin: 0 0 50px 0;
+    font-size: 13px;
+    color: #666666;
+}
+
+footer{
+    border-top:1px solid #cccccc;
+    padding: 20px 0 100px 0;
+}
