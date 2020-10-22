@@ -5,38 +5,26 @@ html{
 
 header{
     height: 60px;
-    background: #070d59;
     line-height: 60px;
     color: #fff;
     text-align: center;
     font-family:'Verdana';
-    font-size: 42px;
-
+    font-size: 35px;
 }
 
 .contents h1{
-    margin: 0 0 32px 0;
-    font-size: 36px;
-    font-weight: bold;
-}
-
-.contents h2{
     margin: 0 0 10px 0;
-    font-size: 28px;
-    font-weight: bold;
-}
-
-.contents h3{
-    margin: 0 0 10px 0;
-    font-size: 26px;
+    font-size: 32px;
     font-weight: bold;
 }
 
 .contents p{
-    margin: 0 0 50px 0;
-    font-size: 20px;
+    margin: 0 0 20px 0;
+    font-size: 18px;
     color: #666666;
 }
+
+.date{ text-align: right; } 
 
 footer{
     border-top:1px solid #cccccc;
